@@ -1,1 +1,1 @@
-Free indie game 
+Free indie game made by one person.
