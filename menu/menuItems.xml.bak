@@ -1,0 +1,42 @@
+<images>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/rails.png</url>
+		<desc>Screenshot is showing Oxelcraft's rail system. You can build train rails, mine carts and drive them to carry items.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/boat.png</url>
+		<desc>Use boards to travel faster through the world. Boat can carry a driver, one passenger and a box of items.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/boatyard.png</url>
+		<desc>Screenshot is showing Oxelcraft's Boat Yard. Boat Yard can be used to craft a boat that you can later drive around the islands.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/campfire.png</url>
+		<desc>Build a campfire to boil water and cook food. Campfire requires one wood piece to cook. Later you can craft a grill, which is more efficient and uses coal.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/plane.png</url>
+		<desc>Search for crashed boats and planes. Their cargo can contain various useful items which are not craftable. You can also later scrap the wreck for metal and mechanical parts.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/heli2.png</url>
+		<desc>You can use helicopter to explore the islands more quickly. Helicopter can carry one passanger and a box of items.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/support.png</url>
+		<desc>Oxelcraft's building system features a support mechanism; all your buildings must have enough ground/pillars support, otherwise they collapse.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/underground.png</url>
+		<desc>Explore the underground caves and consider building your base there; you can also build some torches to light up the space.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/openarea.png</url>
+		<desc>Explore large open, procedurally-generated Oxelcraft spaces and find the best place to settle your base.</desc>
+	</image>
+	<image show="1">
+		<url>http://oxelcraft.com:8001/oxelcraft/desert.png</url>
+		<desc>Desert biome can be very harsh, but it also provides some more ore-rich rocks so it may be a good place to build a forge.</desc>
+	</image>
+</images>
