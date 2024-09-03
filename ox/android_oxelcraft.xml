@@ -259,7 +259,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_4.zip</url>
-          <chk>80fa091ab58229cfcbb7a98b79393321</chk>
+          <chk>0f2c297918deaad735361b98eef10471</chk>
         </platform>
       </platforms>
     </pack>
@@ -272,7 +272,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_4_assets.zip</url>
-          <chk>dda7171d01484d501d016387b70365a7</chk>
+          <chk>e913d788d0dd92dce0bc1b8cbd0aa58f</chk>
         </platform>
       </platforms>
     </pack>
@@ -373,6 +373,10 @@
         <platform name="win">
           <url>win/win_bundle_map_plane.zip</url>
           <chk>17cedc38af4f34af70597cdff6193fb1</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_plane.zip</url>
+          <chk>86c1223e54dd61461d0cc7ee1ca0afb7</chk>
         </platform>
       </platforms>
     </pack>
