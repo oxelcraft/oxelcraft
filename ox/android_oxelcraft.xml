@@ -367,6 +367,15 @@
         </platform>
       </platforms>
     </pack>
+    <pack>
+      <name>bundle_map_plane</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_plane.zip</url>
+          <chk>17cedc38af4f34af70597cdff6193fb1</chk>
+        </platform>
+      </platforms>
+    </pack>
   </packs>
   <maps>
     <map>
@@ -436,6 +445,11 @@
       <name>Map_UDefend2</name>
       <scene>bundle_map_udefend2</scene>
       <assets>bundle_map_udefend2_assets</assets>
+    </map>
+    <map>
+      <name>Map_Plane</name>
+      <scene>bundle_map_plane</scene>
+      <assets>bundle_map_plane_assets</assets>
     </map>
   </maps>
 </data>
