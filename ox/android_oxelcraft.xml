@@ -9,7 +9,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_frontline.zip</url>
-          <chk>ce2a90c59e770837e067d93d15310a20</chk>
+          <chk>1fe589b3ebebb0c69743064d481e1fb9</chk>
         </platform>
       </platforms>
     </pack>
@@ -22,7 +22,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_frontline_assets.zip</url>
-          <chk>a5cc0f4db405f23a8d69b5c2d857b4fd</chk>
+          <chk>6573e8def3450c9f86c288f298307dd4</chk>
         </platform>
       </platforms>
     </pack>
@@ -35,7 +35,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena.zip</url>
-          <chk>a6cfec151bc97337ae5cf86fb0c147cc</chk>
+          <chk>d26ae0190ecf92ab80be3572f12ee5f2</chk>
         </platform>
       </platforms>
     </pack>
@@ -48,7 +48,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena_assets.zip</url>
-          <chk>f8ad54cbea720d8a3c50aa18015f96c4</chk>
+          <chk>1accf9bdefed015a65970fd87c87dd81</chk>
         </platform>
       </platforms>
     </pack>
@@ -61,7 +61,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena2.zip</url>
-          <chk>e12dffe7d76e2afff09ff5d6994f4a47</chk>
+          <chk>c7f606249135eedad36f065b4dbfd2c7</chk>
         </platform>
       </platforms>
     </pack>
@@ -74,7 +74,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena2_assets.zip</url>
-          <chk>44ea6eb9e4465a61474540ee5f317fdb</chk>
+          <chk>e44d2ceafa64fbd4d9f5f902e449f3c7</chk>
         </platform>
       </platforms>
     </pack>
@@ -90,7 +90,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_testitem.zip</url>
-          <chk>aa0c8c92c0b90a100b921d6b341ad4b8</chk>
+          <chk>7ee25e5e198c6ff769a2d91c776f090a</chk>
         </platform>
       </platforms>
     </pack>
@@ -103,7 +103,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_beach.zip</url>
-          <chk>0fb5769870211d72f5a02e848f65b800</chk>
+          <chk>cb2de1585502f3c356e711c5db20dfe4</chk>
         </platform>
       </platforms>
     </pack>
@@ -116,7 +116,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_beach_assets.zip</url>
-          <chk>7a4db85a25e56b86e108cb9bb22c8978</chk>
+          <chk>a57b59abac7a1be6ae756c196cadf98d</chk>
         </platform>
       </platforms>
     </pack>
@@ -125,7 +125,7 @@
       <platforms>
         <platform name="and">
           <url>and/and_bundle_map_sonic.zip</url>
-          <chk>82a001b74268f823a63314b7e9adf0ab</chk>
+          <chk>f10b2b647db323ea3c1e255d2b19cbc8</chk>
         </platform>
         <platform name="win">
           <url>win/win_bundle_map_sonic.zip</url>
@@ -138,7 +138,7 @@
       <platforms>
         <platform name="and">
           <url>and/and_bundle_map_sonic_assets.zip</url>
-          <chk>042c6ffc95420bd0ccf48205c7083d59</chk>
+          <chk>4330f64656e25a902594874d1c65b4f5</chk>
         </platform>
         <platform name="win">
           <url>win/win_bundle_map_sonic_assets.zip</url>
@@ -155,7 +155,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_gladiatorteamarena1.zip</url>
-          <chk>477863f6a654ffbba83a6f5cf2248aab</chk>
+          <chk>c195f50cca68244f5fa3a0bc07bdc67c</chk>
         </platform>
       </platforms>
     </pack>
@@ -168,7 +168,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_gladiatorteamarena1_assets.zip</url>
-          <chk>684e6f1e2eb65a3e4bec64e9174a0dca</chk>
+          <chk>77734d898536b70ba7e77c005a03a150</chk>
         </platform>
       </platforms>
     </pack>
@@ -181,7 +181,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_1.zip</url>
-          <chk>645bc4d7a8063eeb08f43c3952af1de6</chk>
+          <chk>455cf50e8aa485ecaf9393f484f8cde3</chk>
         </platform>
       </platforms>
     </pack>
@@ -194,7 +194,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_1_assets.zip</url>
-          <chk>39e0e342d32a0480461e3552ce37e916</chk>
+          <chk>eafb7bfe0a887d02d3e329528897a123</chk>
         </platform>
       </platforms>
     </pack>
@@ -207,7 +207,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_6.zip</url>
-          <chk>8059a436841e30dd239266a84d1db971</chk>
+          <chk>334011bc9fee3e395805f5506880c14c</chk>
         </platform>
       </platforms>
     </pack>
@@ -220,7 +220,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_6_assets.zip</url>
-          <chk>a0c5da9064f8c0157bc31c33c58e5fc7</chk>
+          <chk>fd93f50f3fa4bb98b9f9853670800cde</chk>
         </platform>
       </platforms>
     </pack>
@@ -233,7 +233,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_5.zip</url>
-          <chk>8c3d31ba59edb5340f9b6c1671b1be60</chk>
+          <chk>c82d64ed210de00681f48b45b3d0d60f</chk>
         </platform>
       </platforms>
     </pack>
@@ -246,7 +246,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_5_assets.zip</url>
-          <chk>744ee361a6e0bec0414f6c6d073ecf79</chk>
+          <chk>85b55b3ba227c8f9f21cc989f742f20c</chk>
         </platform>
       </platforms>
     </pack>
@@ -259,7 +259,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_4.zip</url>
-          <chk>d865300b4b496b5d44b3aa29132ba7c2</chk>
+          <chk>0365e9462c9be181cc7ff86fb5c2e405</chk>
         </platform>
       </platforms>
     </pack>
@@ -272,7 +272,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_4_assets.zip</url>
-          <chk>dbd130972267c0cac65da9ee1694d6a2</chk>
+          <chk>fea07df2de8716c524681ddbd70c1168</chk>
         </platform>
       </platforms>
     </pack>
@@ -285,7 +285,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_3.zip</url>
-          <chk>a7744f2e99c686d329b066c0f1ba4ea9</chk>
+          <chk>08db88cb9a557cc7a865d7104f2886cd</chk>
         </platform>
       </platforms>
     </pack>
@@ -298,7 +298,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_3_assets.zip</url>
-          <chk>f7cd5f5d7c022416097fa8e448fa6a03</chk>
+          <chk>466c07aaefc97b5554d35e1c46b2ff2a</chk>
         </platform>
       </platforms>
     </pack>
@@ -311,7 +311,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_2.zip</url>
-          <chk>aca57889d309aa239aeb6eb2c3305cf0</chk>
+          <chk>66164507557e3619be5e270082939959</chk>
         </platform>
       </platforms>
     </pack>
@@ -324,7 +324,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_aim_egypt_2_assets.zip</url>
-          <chk>09c164f3373146362d949c65a7b88a7b</chk>
+          <chk>9628c5b793a69f36de38601716e521bb</chk>
         </platform>
       </platforms>
     </pack>
@@ -333,7 +333,7 @@
       <platforms>
         <platform name="and">
           <url>and/and_bundle_interactionable_teststuff.zip</url>
-          <chk>077d38c8f6a6270ac5922ad5624fa2cc</chk>
+          <chk>14a144e99460a8fc8fdde232d78f5036</chk>
         </platform>
         <platform name="win">
           <url>win/win_bundle_interactionable_teststuff.zip</url>
@@ -350,7 +350,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_udefend2.zip</url>
-          <chk>c14bd16972e581302605865c0688b1d6</chk>
+          <chk>3b6345a88f653e290d38fa0a71f47853</chk>
         </platform>
       </platforms>
     </pack>
@@ -363,7 +363,7 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_udefend2_assets.zip</url>
-          <chk>971060f272ac2687d99e6106afd7c0f0</chk>
+          <chk>b794c1f813ccae84da9953fb96f5b97a</chk>
         </platform>
       </platforms>
     </pack>
@@ -376,7 +376,16 @@
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_plane.zip</url>
-          <chk>86c1223e54dd61461d0cc7ee1ca0afb7</chk>
+          <chk>214f0ceb6bfa894c5f28dad19ea83196</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_weapon_awp</name>
+      <platforms>
+        <platform name="and">
+          <url>and/and_bundle_weapon_awp.zip</url>
+          <chk>1bf87807c6431b38b43b496509456e51</chk>
         </platform>
       </platforms>
     </pack>
