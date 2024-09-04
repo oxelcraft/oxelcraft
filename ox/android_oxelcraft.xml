@@ -394,7 +394,7 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_nuketown.zip</url>
-          <chk>3794a3aa69163c12d6635f1bb4eae684</chk>
+          <chk>863b1dfd748fb5de9f541d430cd87644</chk>
         </platform>
       </platforms>
     </pack>
@@ -403,7 +403,7 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_nuketown_assets.zip</url>
-          <chk>7c26dbfc1ecbfaca1c0a1d569d45c1db</chk>
+          <chk>4f8cb4829049ea3fa730edb58328cf3a</chk>
         </platform>
       </platforms>
     </pack>
