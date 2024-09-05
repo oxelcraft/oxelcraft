@@ -394,11 +394,11 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_nuketown.zip</url>
-          <chk>9caa76a6ceeeef52ee720ed75a46ff96</chk>
+          <chk>e4cd8c6373cb949697b3a25e8f631e7a</chk>
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_nuketown.zip</url>
-          <chk>60a99c3ea1893237d2c3cc67240edd3c</chk>
+          <chk>9173df9e2c8f3b07b70f9b842d109ee1</chk>
         </platform>
       </platforms>
     </pack>
@@ -407,11 +407,11 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_nuketown_assets.zip</url>
-          <chk>816bf9c395673ec2138c9c0309bc75bd</chk>
+          <chk>6fe946b1c4b50c8a092f28a2dc02de0b</chk>
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_nuketown_assets.zip</url>
-          <chk>948e3b9302dc21e6846bf0f03b6085d1</chk>
+          <chk>6ad24fa6846d460a8ae7fba878036ca6</chk>
         </platform>
       </platforms>
     </pack>
