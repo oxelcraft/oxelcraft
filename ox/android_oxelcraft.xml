@@ -31,11 +31,11 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_arena.zip</url>
-          <chk>df3d60fab815914dd3cc48e8cd8cfc9c</chk>
+          <chk>80351065fad52e812bdcbb8320aadb90</chk>
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena.zip</url>
-          <chk>d26ae0190ecf92ab80be3572f12ee5f2</chk>
+          <chk>6d1725bc3719b26a220deea1232d0d89</chk>
         </platform>
       </platforms>
     </pack>
@@ -44,11 +44,11 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_arena_assets.zip</url>
-          <chk>b1e68b7b3d3bf404525f58f9acfb8a55</chk>
+          <chk>22de192f12a45e4703630ff3f058d657</chk>
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena_assets.zip</url>
-          <chk>1accf9bdefed015a65970fd87c87dd81</chk>
+          <chk>3d447aa8a376c43331b6935bcc044fe1</chk>
         </platform>
       </platforms>
     </pack>
@@ -57,11 +57,11 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_arena2.zip</url>
-          <chk>af2af07e92d638ef166facd2e7c04f1c</chk>
+          <chk>559057afdc109de497801471ec78b24b</chk>
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena2.zip</url>
-          <chk>c7f606249135eedad36f065b4dbfd2c7</chk>
+          <chk>92795e05d24549ba0de102c8226b7030</chk>
         </platform>
       </platforms>
     </pack>
@@ -70,11 +70,11 @@
       <platforms>
         <platform name="win">
           <url>win/win_bundle_map_arena2_assets.zip</url>
-          <chk>dee0a5e9f8629f28c7b27e94d171d2ef</chk>
+          <chk>2d5727f73171ae91b691a31f23346205</chk>
         </platform>
         <platform name="and">
           <url>and/and_bundle_map_arena2_assets.zip</url>
-          <chk>e44d2ceafa64fbd4d9f5f902e449f3c7</chk>
+          <chk>0fc7fd127eeebf79c135e134230df1d5</chk>
         </platform>
       </platforms>
     </pack>
