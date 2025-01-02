@@ -418,11 +418,13 @@
   </packs>
   <maps>
     <map>
+      <title>Frontline</title>
       <name>Map_Frontline</name>
       <scene>bundle_map_frontline</scene>
       <assets>bundle_map_frontline_assets</assets>
     </map>
     <map>
+      <title>Arena</title>
       <name>Map_Arena</name>
       <scene>bundle_map_arena</scene>
       <assets>bundle_map_arena_assets</assets>
@@ -431,66 +433,79 @@
       </includes>
     </map>
     <map>
+      <title>Arena2</title>
       <name>Map_Arena2</name>
       <scene>bundle_map_arena2</scene>
       <assets>bundle_map_arena2_assets</assets>
     </map>
     <map>
+      <title>Beach</title>
       <name>Map_Beach</name>
       <scene>bundle_map_beach</scene>
       <assets>bundle_map_beach_assets</assets>
     </map>
     <map>
+      <title>Sonic</title>
       <name>Map_Sonic</name>
       <scene>bundle_map_sonic</scene>
       <assets>bundle_map_sonic_assets</assets>
     </map>
     <map>
+      <title>Gladiator Team Arena 1</title>
       <name>Map_GladiatorTeamArena1</name>
       <scene>bundle_map_gladiatorteamarena1</scene>
       <assets>bundle_map_gladiatorteamarena1_assets</assets>
     </map>
     <map>
+      <title>Aim Egypt 1</title>
       <name>Map_Aim_Egypt_1</name>
       <scene>bundle_map_aim_egypt_1</scene>
       <assets>bundle_map_aim_egypt_1_assets</assets>
     </map>
     <map>
+      <title>Aim Egypt 6</title>
       <name>Map_Aim_Egypt_6</name>
       <scene>bundle_map_aim_egypt_6</scene>
       <assets>bundle_map_aim_egypt_6_assets</assets>
     </map>
     <map>
+      <title>Aim Egypt 5</title>
       <name>Map_Aim_Egypt_5</name>
       <scene>bundle_map_aim_egypt_5</scene>
       <assets>bundle_map_aim_egypt_5_assets</assets>
     </map>
     <map>
+      <title>Aim Egypt 4</title>
       <name>Map_Aim_Egypt_4</name>
       <scene>bundle_map_aim_egypt_4</scene>
       <assets>bundle_map_aim_egypt_4_assets</assets>
     </map>
     <map>
+      <title>Aim Egypt 3</title>
       <name>Map_Aim_Egypt_3</name>
       <scene>bundle_map_aim_egypt_3</scene>
       <assets>bundle_map_aim_egypt_3_assets</assets>
     </map>
     <map>
+      <title>Aim Egypt 2</title>
       <name>Map_Aim_Egypt_2</name>
       <scene>bundle_map_aim_egypt_2</scene>
       <assets>bundle_map_aim_egypt_2_assets</assets>
     </map>
     <map>
+      <title>UDefend2</title>
       <name>Map_UDefend2</name>
       <scene>bundle_map_udefend2</scene>
       <assets>bundle_map_udefend2_assets</assets>
     </map>
     <map>
+      <title>Plane</title>
       <name>Map_Plane</name>
       <scene>bundle_map_plane</scene>
       <assets>bundle_map_plane_assets</assets>
     </map>
     <map>
+      <title>Nuke Town</title>
       <name>Map_NukeTown</name>
       <scene>bundle_map_nuketown</scene>
       <assets>bundle_map_nuketown_assets</assets>

@@ -1,1 +1,512 @@
- bEnabled="0"
+<data>
+  <packs>
+    <pack>
+      <name>bundle_map_frontline</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_frontline.zip</url>
+          <chk>be99c1c26b93f557fdb7f696dffec65d</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_frontline.zip</url>
+          <chk>1fe589b3ebebb0c69743064d481e1fb9</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_frontline_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_frontline_assets.zip</url>
+          <chk>a735f9e1aaa44dee6d3f2e50eee5357a</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_frontline_assets.zip</url>
+          <chk>6573e8def3450c9f86c288f298307dd4</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_arena</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_arena.zip</url>
+          <chk>80351065fad52e812bdcbb8320aadb90</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_arena.zip</url>
+          <chk>6d1725bc3719b26a220deea1232d0d89</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_arena_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_arena_assets.zip</url>
+          <chk>22de192f12a45e4703630ff3f058d657</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_arena_assets.zip</url>
+          <chk>3d447aa8a376c43331b6935bcc044fe1</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_arena2</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_arena2.zip</url>
+          <chk>559057afdc109de497801471ec78b24b</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_arena2.zip</url>
+          <chk>92795e05d24549ba0de102c8226b7030</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_arena2_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_arena2_assets.zip</url>
+          <chk>2d5727f73171ae91b691a31f23346205</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_arena2_assets.zip</url>
+          <chk>0fc7fd127eeebf79c135e134230df1d5</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack bAlwaysInclude="0">
+      <name>bundle_testitem</name>
+      <entries>
+        <entry>bundle_testItem</entry>
+      </entries>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_testitem.zip</url>
+          <chk>0c8747b343da400ab1106ab325241997</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_testitem.zip</url>
+          <chk>7ee25e5e198c6ff769a2d91c776f090a</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_beach</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_beach.zip</url>
+          <chk>f1172ffee60b3339e81057b3adcc9109</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_beach.zip</url>
+          <chk>cb2de1585502f3c356e711c5db20dfe4</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_beach_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_beach_assets.zip</url>
+          <chk>cc551ec5b436df17e914384ff2e09cd9</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_beach_assets.zip</url>
+          <chk>a57b59abac7a1be6ae756c196cadf98d</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_sonic</name>
+      <platforms>
+        <platform name="and">
+          <url>and/and_bundle_map_sonic.zip</url>
+          <chk>f10b2b647db323ea3c1e255d2b19cbc8</chk>
+        </platform>
+        <platform name="win">
+          <url>win/win_bundle_map_sonic.zip</url>
+          <chk>ff984088e1a44102ba16de55145cde14</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_sonic_assets</name>
+      <platforms>
+        <platform name="and">
+          <url>and/and_bundle_map_sonic_assets.zip</url>
+          <chk>4330f64656e25a902594874d1c65b4f5</chk>
+        </platform>
+        <platform name="win">
+          <url>win/win_bundle_map_sonic_assets.zip</url>
+          <chk>87c6481ae0f32a5a7a8a2578b5a42a1f</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_gladiatorteamarena1</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_gladiatorteamarena1.zip</url>
+          <chk>41b4e6d5b66f6e3cbb50ba57f92c975e</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_gladiatorteamarena1.zip</url>
+          <chk>c195f50cca68244f5fa3a0bc07bdc67c</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_gladiatorteamarena1_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_gladiatorteamarena1_assets.zip</url>
+          <chk>1efdcfe29b323d7375cb439b667c97ab</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_gladiatorteamarena1_assets.zip</url>
+          <chk>77734d898536b70ba7e77c005a03a150</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_1</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_1.zip</url>
+          <chk>c8e1535f2151cbd8e47244fcc5b1ca91</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_1.zip</url>
+          <chk>455cf50e8aa485ecaf9393f484f8cde3</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_1_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_1_assets.zip</url>
+          <chk>3c4e82a0e7192bd31c414fa4a330da7d</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_1_assets.zip</url>
+          <chk>eafb7bfe0a887d02d3e329528897a123</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_6</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_6.zip</url>
+          <chk>f037326ecc1244f7145252265848aa0f</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_6.zip</url>
+          <chk>334011bc9fee3e395805f5506880c14c</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_6_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_6_assets.zip</url>
+          <chk>4d09b5e0fdc54af6ad019489591b2c17</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_6_assets.zip</url>
+          <chk>fd93f50f3fa4bb98b9f9853670800cde</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_5</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_5.zip</url>
+          <chk>30897fa721d924d03a42a35ec4352da7</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_5.zip</url>
+          <chk>c82d64ed210de00681f48b45b3d0d60f</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_5_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_5_assets.zip</url>
+          <chk>1a7c043bf3495ea56f7f500174a1dfc1</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_5_assets.zip</url>
+          <chk>85b55b3ba227c8f9f21cc989f742f20c</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_4</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_4.zip</url>
+          <chk>7299fa9db67f8ba51c6aba1b3c04bc49</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_4.zip</url>
+          <chk>0365e9462c9be181cc7ff86fb5c2e405</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_4_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_4_assets.zip</url>
+          <chk>6bd122978fadbc94a762e9a6b0397422</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_4_assets.zip</url>
+          <chk>fea07df2de8716c524681ddbd70c1168</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_3</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_3.zip</url>
+          <chk>55e6013a99c1d2dcf4669f36818618b9</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_3.zip</url>
+          <chk>08db88cb9a557cc7a865d7104f2886cd</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_3_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_3_assets.zip</url>
+          <chk>795c906263a66351778ba8991460cbfe</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_3_assets.zip</url>
+          <chk>466c07aaefc97b5554d35e1c46b2ff2a</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_2</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_2.zip</url>
+          <chk>87315ac1b511826c5c3eb140910d6895</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_2.zip</url>
+          <chk>66164507557e3619be5e270082939959</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_aim_egypt_2_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_aim_egypt_2_assets.zip</url>
+          <chk>e461ac3d7681e00f020c90384b4c6dba</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_aim_egypt_2_assets.zip</url>
+          <chk>9628c5b793a69f36de38601716e521bb</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_interactionable_teststuff</name>
+      <platforms>
+        <platform name="and">
+          <url>and/and_bundle_interactionable_teststuff.zip</url>
+          <chk>14a144e99460a8fc8fdde232d78f5036</chk>
+        </platform>
+        <platform name="win">
+          <url>win/win_bundle_interactionable_teststuff.zip</url>
+          <chk>8528eb908aa55da4f857db3ef4dbe699</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_udefend2</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_udefend2.zip</url>
+          <chk>f3115972ca8a45604a1b75c7dcc553bc</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_udefend2.zip</url>
+          <chk>3b6345a88f653e290d38fa0a71f47853</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_udefend2_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_udefend2_assets.zip</url>
+          <chk>645db6891da300e0b54a86dbfcc33df3</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_udefend2_assets.zip</url>
+          <chk>b794c1f813ccae84da9953fb96f5b97a</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_plane</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_plane.zip</url>
+          <chk>17cedc38af4f34af70597cdff6193fb1</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_plane.zip</url>
+          <chk>214f0ceb6bfa894c5f28dad19ea83196</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_weapon_awp</name>
+      <platforms>
+        <platform name="and">
+          <url>and/and_bundle_weapon_awp.zip</url>
+          <chk>1bf87807c6431b38b43b496509456e51</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_nuketown</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_nuketown.zip</url>
+          <chk>e4cd8c6373cb949697b3a25e8f631e7a</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_nuketown.zip</url>
+          <chk>9173df9e2c8f3b07b70f9b842d109ee1</chk>
+        </platform>
+      </platforms>
+    </pack>
+    <pack>
+      <name>bundle_map_nuketown_assets</name>
+      <platforms>
+        <platform name="win">
+          <url>win/win_bundle_map_nuketown_assets.zip</url>
+          <chk>6fe946b1c4b50c8a092f28a2dc02de0b</chk>
+        </platform>
+        <platform name="and">
+          <url>and/and_bundle_map_nuketown_assets.zip</url>
+          <chk>6ad24fa6846d460a8ae7fba878036ca6</chk>
+        </platform>
+      </platforms>
+    </pack>
+  </packs>
+  <maps>
+    <map>
+      <name>Map_Frontline</name>
+      <scene>bundle_map_frontline</scene>
+      <assets>bundle_map_frontline_assets</assets>
+    </map>
+    <map>
+      <name>Map_Arena</name>
+      <scene>bundle_map_arena</scene>
+      <assets>bundle_map_arena_assets</assets>
+      <includes>
+        <include bEnabled="0">bundle_testitem</include>
+      </includes>
+    </map>
+    <map>
+      <title>Arena2</title>
+      <name>Map_Arena2</name>
+      <scene>bundle_map_arena2</scene>
+      <assets>bundle_map_arena2_assets</assets>
+    </map>
+    <map>
+      <title>Beach</title>
+      <name>Map_Beach</name>
+      <scene>bundle_map_beach</scene>
+      <assets>bundle_map_beach_assets</assets>
+    </map>
+    <map>
+      <title>Sonic</title>
+      <name>Map_Sonic</name>
+      <scene>bundle_map_sonic</scene>
+      <assets>bundle_map_sonic_assets</assets>
+    </map>
+    <map>
+      <title>Gladiator Team Arena 1</title>
+      <name>Map_GladiatorTeamArena1</name>
+      <scene>bundle_map_gladiatorteamarena1</scene>
+      <assets>bundle_map_gladiatorteamarena1_assets</assets>
+    </map>
+    <map>
+      <title>Aim Egypt 1</title>
+      <name>Map_Aim_Egypt_1</name>
+      <scene>bundle_map_aim_egypt_1</scene>
+      <assets>bundle_map_aim_egypt_1_assets</assets>
+    </map>
+    <map>
+      <title>Aim Egypt 6</title>
+      <name>Map_Aim_Egypt_6</name>
+      <scene>bundle_map_aim_egypt_6</scene>
+      <assets>bundle_map_aim_egypt_6_assets</assets>
+    </map>
+    <map>
+      <title>Aim Egypt 5</title>
+      <name>Map_Aim_Egypt_5</name>
+      <scene>bundle_map_aim_egypt_5</scene>
+      <assets>bundle_map_aim_egypt_5_assets</assets>
+    </map>
+    <map>
+      <title>Aim Egypt 4</title>
+      <name>Map_Aim_Egypt_4</name>
+      <scene>bundle_map_aim_egypt_4</scene>
+      <assets>bundle_map_aim_egypt_4_assets</assets>
+    </map>
+    <map>
+      <title>Aim Egypt 3</title>
+      <name>Map_Aim_Egypt_3</name>
+      <scene>bundle_map_aim_egypt_3</scene>
+      <assets>bundle_map_aim_egypt_3_assets</assets>
+    </map>
+    <map>
+      <title>Aim Egypt 2</title>
+      <name>Map_Aim_Egypt_2</name>
+      <scene>bundle_map_aim_egypt_2</scene>
+      <assets>bundle_map_aim_egypt_2_assets</assets>
+    </map>
+    <map>
+      <title>UDefend2</title>
+      <name>Map_UDefend2</name>
+      <scene>bundle_map_udefend2</scene>
+      <assets>bundle_map_udefend2_assets</assets>
+    </map>
+    <map>
+      <title>Plane</title>
+      <name>Map_Plane</name>
+      <scene>bundle_map_plane</scene>
+      <assets>bundle_map_plane_assets</assets>
+    </map>
+    <map>
+      <title>Nuke Town</title>
+      <name>Map_NukeTown</name>
+      <scene>bundle_map_nuketown</scene>
+      <assets>bundle_map_nuketown_assets</assets>
+    </map>
+  </maps>
+</data>
